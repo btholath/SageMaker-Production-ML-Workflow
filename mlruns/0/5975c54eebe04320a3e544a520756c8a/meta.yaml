@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/5975c54eebe04320a3e544a520756c8a/artifacts
+end_time: 1759171254160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5975c54eebe04320a3e544a520756c8a
+run_name: bustling-moth-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759171248940
+status: 3
+tags: []
+user_id: bijut

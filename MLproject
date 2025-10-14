@@ -1,0 +1,16 @@
+#
+# MLproject Configuration File
+#
+# Purpose: Defines the MLflow project structure, allowing for standardized execution.
+# Outcome: Enables running the project's training routine using the `mlflow run` command.
+#
+
+# Defines the overall name for the MLflow project.
+name: "Housing price prediction"
+
+# Defines the entry points that can be executed within the project.
+entry_points:
+  # Name of the entry point for model training.
+  Training:
+    # Specifies the command to execute when this entry point is run.
+    command: "python train.py"

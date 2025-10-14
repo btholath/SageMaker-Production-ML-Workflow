@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/e5c3b870174a4d8e8b9319ccdfaaea62/artifacts
+end_time: 1759165881040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5c3b870174a4d8e8b9319ccdfaaea62
+run_name: calm-pug-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759165878463
+status: 3
+tags: []
+user_id: bijut

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/f2c74ab5a7844ec18366593512d09d59/artifacts
+end_time: 1759165870616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2c74ab5a7844ec18366593512d09d59
+run_name: polite-rook-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759165867427
+status: 3
+tags: []
+user_id: bijut

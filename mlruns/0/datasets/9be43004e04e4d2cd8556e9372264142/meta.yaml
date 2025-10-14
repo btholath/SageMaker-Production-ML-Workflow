@@ -1,0 +1,9 @@
+digest: eb0aa586
+name: dataset
+profile: '{"features_shape": [1168, 7894], "features_size": 9220192, "features_nbytes":
+  73761536}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 7894]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "bijut", "mlflow.source.name": "/home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/train.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "bb1a3f3aeb463e04a18e56a6321c264148f98a59"}}'
+source_type: code

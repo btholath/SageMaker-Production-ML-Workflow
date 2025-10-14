@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/f0d50357898f41c594136cf05e92973e/artifacts
+end_time: 1759165924336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0d50357898f41c594136cf05e92973e
+run_name: worried-gull-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759165922039
+status: 3
+tags: []
+user_id: bijut

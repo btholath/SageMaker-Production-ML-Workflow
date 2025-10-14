@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/644ac40ae28540778f90c90efa0ea4a8/artifacts
+end_time: 1759169479134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 644ac40ae28540778f90c90efa0ea4a8
+run_name: inquisitive-foal-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759169476503
+status: 3
+tags: []
+user_id: bijut

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/cb53e29f5c484940aa29bcfedffa524d/artifacts
+end_time: 1759165873342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb53e29f5c484940aa29bcfedffa524d
+run_name: funny-pig-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759165870619
+status: 3
+tags: []
+user_id: bijut

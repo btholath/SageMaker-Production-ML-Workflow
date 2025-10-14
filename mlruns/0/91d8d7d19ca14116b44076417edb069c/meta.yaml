@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/91d8d7d19ca14116b44076417edb069c/artifacts
+end_time: 1759165914527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91d8d7d19ca14116b44076417edb069c
+run_name: rumbling-mink-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759165912064
+status: 3
+tags: []
+user_id: bijut

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/8aff59057b9d4c82a26e80e100461fd3/artifacts
+end_time: 1759171202171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8aff59057b9d4c82a26e80e100461fd3
+run_name: brawny-trout-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759171188759
+status: 3
+tags: []
+user_id: bijut

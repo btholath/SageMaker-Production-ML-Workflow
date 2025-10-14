@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/6395be4d6a0a49d3b2009d1a2bb6a914/artifacts
+end_time: 1759169431999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6395be4d6a0a49d3b2009d1a2bb6a914
+run_name: burly-zebra-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759169404640
+status: 3
+tags: []
+user_id: bijut

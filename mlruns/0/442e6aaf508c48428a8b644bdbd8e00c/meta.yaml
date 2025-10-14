@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/442e6aaf508c48428a8b644bdbd8e00c/artifacts
+end_time: 1759165922036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 442e6aaf508c48428a8b644bdbd8e00c
+run_name: amazing-smelt-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759165919338
+status: 3
+tags: []
+user_id: bijut

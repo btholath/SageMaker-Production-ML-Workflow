@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/70263f3ea17e4e0ba1937f3fcf620f1a/artifacts
+end_time: 1759171258958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70263f3ea17e4e0ba1937f3fcf620f1a
+run_name: shivering-moose-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759171254162
+status: 3
+tags: []
+user_id: bijut

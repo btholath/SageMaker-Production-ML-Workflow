@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/8b748cbd82f84935a87c29a5a2afaad5/artifacts
+end_time: 1759171282107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b748cbd82f84935a87c29a5a2afaad5
+run_name: painted-whale-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759171277888
+status: 3
+tags: []
+user_id: bijut

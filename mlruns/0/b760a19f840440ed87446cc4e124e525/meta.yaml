@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/b760a19f840440ed87446cc4e124e525/artifacts
+end_time: 1759170035614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b760a19f840440ed87446cc4e124e525
+run_name: overjoyed-grub-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759170032633
+status: 3
+tags: []
+user_id: bijut

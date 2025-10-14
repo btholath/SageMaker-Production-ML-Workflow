@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/ccc249499342447db717e4bb80bb1f1e/artifacts
+end_time: 1759165926779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccc249499342447db717e4bb80bb1f1e
+run_name: fearless-flea-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759165924341
+status: 3
+tags: []
+user_id: bijut

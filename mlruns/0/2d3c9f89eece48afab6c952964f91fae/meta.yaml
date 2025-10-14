@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/2d3c9f89eece48afab6c952964f91fae/artifacts
+end_time: 1759165919335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d3c9f89eece48afab6c952964f91fae
+run_name: valuable-tern-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759165916890
+status: 3
+tags: []
+user_id: bijut

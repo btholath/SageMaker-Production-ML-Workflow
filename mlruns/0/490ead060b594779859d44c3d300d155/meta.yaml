@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/490ead060b594779859d44c3d300d155/artifacts
+end_time: 1759169404638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 490ead060b594779859d44c3d300d155
+run_name: righteous-horse-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759169390081
+status: 3
+tags: []
+user_id: bijut

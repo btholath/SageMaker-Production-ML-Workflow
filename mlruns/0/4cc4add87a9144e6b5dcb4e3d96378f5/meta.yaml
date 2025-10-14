@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/4cc4add87a9144e6b5dcb4e3d96378f5/artifacts
+end_time: 1759165896244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cc4add87a9144e6b5dcb4e3d96378f5
+run_name: resilient-duck-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759165893485
+status: 3
+tags: []
+user_id: bijut

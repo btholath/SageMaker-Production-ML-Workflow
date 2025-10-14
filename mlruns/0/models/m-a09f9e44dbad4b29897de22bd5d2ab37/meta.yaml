@@ -1,0 +1,10 @@
+artifact_location: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/models/m-a09f9e44dbad4b29897de22bd5d2ab37/artifacts
+creation_timestamp: 1759171275280
+experiment_id: '0'
+last_updated_timestamp: 1759171277870
+model_id: m-a09f9e44dbad4b29897de22bd5d2ab37
+model_type: null
+name: ElasticNet
+source_run_id: 8eaf14ae212147d28435c2a5fae40490
+status: 2
+status_message: null

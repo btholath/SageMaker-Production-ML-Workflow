@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/828a4c7580db4a8d819802b83dfa45be/artifacts
+end_time: 1759169452909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 828a4c7580db4a8d819802b83dfa45be
+run_name: placid-colt-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759169443107
+status: 3
+tags: []
+user_id: bijut

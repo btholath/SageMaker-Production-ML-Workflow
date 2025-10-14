@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/b77533d7069e4cbc8cd66829e0f36a5d/artifacts
+end_time: 1759165864711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b77533d7069e4cbc8cd66829e0f36a5d
+run_name: fortunate-snipe-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759165862062
+status: 3
+tags: []
+user_id: bijut

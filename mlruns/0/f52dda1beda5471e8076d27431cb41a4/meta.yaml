@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/f52dda1beda5471e8076d27431cb41a4/artifacts
+end_time: 1759171272270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f52dda1beda5471e8076d27431cb41a4
+run_name: carefree-bear-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759171268508
+status: 3
+tags: []
+user_id: bijut

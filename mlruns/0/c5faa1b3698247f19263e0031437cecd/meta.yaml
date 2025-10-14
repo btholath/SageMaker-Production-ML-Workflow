@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bijut/aws_apps/house-price-prediction-sagemaker-mlflow/house-price-prediction-sagemaker-mlflow/mlruns/0/c5faa1b3698247f19263e0031437cecd/artifacts
+end_time: 1759170038742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5faa1b3698247f19263e0031437cecd
+run_name: stately-stork-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759170035618
+status: 3
+tags: []
+user_id: bijut
