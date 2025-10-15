@@ -1,6 +1,6 @@
 # End-to-End MLOps Pipeline for House Price Prediction
 
-\<comment-tag id="1"\>A scalable and reproducible MLOps pipeline for house price prediction.\</comment-tag id="1" text="Consider making this introductory sentence more active and impactful. For example: 'This repository provides a complete, production-ready MLOps pipeline for predicting house prices using AWS SageMaker and MLflow.' This immediately communicates the project's value and key technologies." type="suggestion"\> This project covers the full workflow from data preprocessing to production deployment on AWS, featuring robust experiment tracking with MLflow.
+A scalable and reproducible MLOps pipeline for house price prediction. Consider making this introductory sentence more active and impactful. For example: 'This repository provides a complete, production-ready MLOps pipeline for predicting house prices using AWS SageMaker and MLflow.' This immediately communicates the project's value and key technologies." type="suggestion"\> This project covers the full workflow from data preprocessing to production deployment on AWS, featuring robust experiment tracking with MLflow.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This project demonstrates a comprehensive, cloud-integrated machine learning wor
 
 ## MLOps Workflow
 
-\<comment-tag id="2"\>The pipeline is structured into five key stages:
+The pipeline is structured into five key stages:
 
 1.  **Data Preprocessing**: Raw data is cleaned and prepared for training. This stage involves using KNN imputation for numerical features and mode imputation for categorical features, followed by one-hot encoding to transform categorical data into a machine-readable format.
 
